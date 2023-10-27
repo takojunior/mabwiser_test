@@ -1,6 +1,5 @@
 [![ci](https://github.com/fidelity/mabwiser/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/fidelity/mabwiser/actions/workflows/ci.yml) [![PyPI version fury.io](https://badge.fury.io/py/mabwiser.svg)](https://pypi.python.org/pypi/mabwiser/) [![PyPI license](https://img.shields.io/pypi/l/mabwiser.svg)](https://pypi.python.org/pypi/mabwiser/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Downloads](https://static.pepy.tech/personalized-badge/mabwiser?period=total&units=international_system&left_color=grey&right_color=orange&left_text=Downloads)](https://pepy.tech/project/mabwiser)
 
-a******
 
 # MABWiser: Parallelizable Contextual Multi-Armed Bandits 
 
